@@ -4,6 +4,10 @@
 
 I'm a Year 4 student at SETEC Institute, passionate about building responsive and user-friendly websites.
 - Portfolio: https://portfolio.sinmanyvathana.workers.dev/
+- ## Contact
+Email: sinmanyvathana@gmail.com
+GitHub: https://github.com/vathana444
+Telegram : @vathana444
 ## Skills
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
@@ -14,13 +18,6 @@ I'm a Year 4 student at SETEC Institute, passionate about building responsive an
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
 </div>
-
-
-
-## Contact
-Email: sinmanyvathana@gmail.com
-GitHub: https://github.com/vathana444
-Telegram : @vathana444
 
 
 # 📊 GitHub Stats:
