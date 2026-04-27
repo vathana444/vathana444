@@ -1,47 +1,38 @@
-# SinmanyVathana
+# Hi, I'm Sin manyVathana 👋
 
-Hi, I'm **Sin manyVathana** 👋  
-I'm a **Front-End Developer** and a Year 4 student at **SETEC Institute**.
+## Front-End Developer
 
-I enjoy building clean, responsive, and user-friendly websites.  
-I have experience working on projects such as a personal portfolio, weather app, and web applications that use API flow.
-
-## About Me
-
-- 🎓 Year 4 student at SETEC Institute
-- 💻 Front-End Developer
-- 🌱 Currently improving my skills in web development
-- 🚀 Looking for internship or volunteer opportunities
-- 🎯 Goal: Become a better developer through real-world experience
+I'm a Year 4 student at SETEC Institute, passionate about building responsive and user-friendly websites.
 
 ## Skills
-
-- HTML
-- CSS
-- JavaScript
-- React
-- Tailwind CSS
-- API Integration
-- Responsive Web Design
-- Git & GitHub
+HTML • CSS • JavaScript • React • Tailwind CSS • API Integration • Git & GitHub
 
 ## Projects
-
-### 🌐 Personal Portfolio Website
-A personal website to introduce myself, show my skills, and display my projects.
-
-🔗 https://portfolio.sinmanyvathana.workers.dev/
-
-### 🌦 Weather App
-A weather application that uses API data to show real-time weather information such as temperature, condition, and location.
-
-### 💻 Front-End Projects
-Built responsive web pages and practiced working with layout, components, and user interface design.
-
-## GitHub
-
-🔗 https://github.com/vathana444
+- Portfolio: https://portfolio.sinmanyvathana.workers.dev/
+- Weather App
+- Front-End Web Projects
 
 ## Contact
+Email: sinmanyvathana@gmail.com
+GitHub: https://github.com/vathana444
 
-📧 sinmanyvathana@gmail.com
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=vathana444&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=vathana444&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=vathana444&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vathana444&theme=one_dark_pro&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=vathana444&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=vathana444&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
