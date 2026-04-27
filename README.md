@@ -5,7 +5,15 @@
 I'm a Year 4 student at SETEC Institute, passionate about building responsive and user-friendly websites.
 
 ## Skills
-HTML • CSS • JavaScript • React • Tailwind CSS • API Integration • Git & GitHub
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+</div>
 
 ## Projects
 - Portfolio: https://portfolio.sinmanyvathana.workers.dev/
