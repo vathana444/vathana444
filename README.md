@@ -3,7 +3,7 @@
 ## Front-End Developer
 
 I'm a Year 4 student at SETEC Institute, passionate about building responsive and user-friendly websites.
-
+- Portfolio: https://portfolio.sinmanyvathana.workers.dev/
 ## Skills
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
@@ -15,10 +15,7 @@ I'm a Year 4 student at SETEC Institute, passionate about building responsive an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
 </div>
 
-## Projects
-- Portfolio: https://portfolio.sinmanyvathana.workers.dev/
-- Weather App
-- Front-End Web Projects
+
 
 ## Contact
 Email: sinmanyvathana@gmail.com
